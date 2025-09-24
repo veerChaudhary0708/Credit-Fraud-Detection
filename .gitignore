@@ -1,0 +1,14 @@
+# Data files
+data/
+*.csv
+*.json
+
+# Environment files
+.env
+venv/
+__pycache__/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
